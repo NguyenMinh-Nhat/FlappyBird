@@ -6,7 +6,7 @@ namespace CustomProgram
         public int healthDisplay;
         public GameObject gameOverPanel;
 
-        public void UpdateScore(int newScore)
+        public void Update(int newScore)
         {
             
         }

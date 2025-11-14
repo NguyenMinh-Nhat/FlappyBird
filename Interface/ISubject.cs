@@ -2,19 +2,10 @@ namespace CustomProgram
 {
     public interface ISubject : IObserver
     {
-        public void Attach()
-        {
+        public void Attach();
 
-        }
-
-        public void Detach()
-        {
-
-        }
+        public void Detach();
         
-        public void NotifyObservers()
-        {
-            
-        }
+        public void NotifyObservers();
     }
 }

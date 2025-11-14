@@ -4,14 +4,14 @@ namespace CustomProgram
     {
         private int score;
         private IGameState currentState;
-        private string observers;
+        private List<IObserver> observers;
 
         public void ApplyOrbEffect()
         {
 
         }
         
-        public void ChangeState()
+        public void ChangeState(IGameState gameState)
         {
             
         }
