@@ -1,11 +1,15 @@
 namespace CustomProgram
 {
-    public interface ISubject : IObserver
+    public interface ISubject
     {
-        public void Attach();
+        void Attach(IObserver obs);
 
-        public void Detach();
+        void Detach(IObserver obs);
         
-        public void NotifyObservers();
+        void NotifyScoreChanged(); 
+        void NotifyHealthChanged();
+        
+        void NotifyGameReset();
+        void NotifyGameOver();
     }
 }

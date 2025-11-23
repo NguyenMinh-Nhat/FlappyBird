@@ -3,12 +3,17 @@ C:\msys64\home\Admin\CustomProgram\bin\Debug\net9.0\CustomProgram.deps.json
 C:\msys64\home\Admin\CustomProgram\bin\Debug\net9.0\CustomProgram.runtimeconfig.json
 C:\msys64\home\Admin\CustomProgram\bin\Debug\net9.0\CustomProgram.dll
 C:\msys64\home\Admin\CustomProgram\bin\Debug\net9.0\CustomProgram.pdb
+C:\msys64\home\Admin\CustomProgram\bin\Debug\net9.0\SplashKitSDK.dll
+C:\msys64\home\Admin\CustomProgram\obj\Debug\net9.0\CustomProgram.csproj.AssemblyReference.cache
 C:\msys64\home\Admin\CustomProgram\obj\Debug\net9.0\CustomProgram.GeneratedMSBuildEditorConfig.editorconfig
 C:\msys64\home\Admin\CustomProgram\obj\Debug\net9.0\CustomProgram.AssemblyInfoInputs.cache
 C:\msys64\home\Admin\CustomProgram\obj\Debug\net9.0\CustomProgram.AssemblyInfo.cs
 C:\msys64\home\Admin\CustomProgram\obj\Debug\net9.0\CustomProgram.csproj.CoreCompileInputs.cache
+C:\msys64\home\Admin\CustomProgram\obj\Debug\net9.0\CustomProgram.sourcelink.json
+C:\msys64\home\Admin\CustomProgram\obj\Debug\net9.0\CustomPr.26C34934.Up2Date
 C:\msys64\home\Admin\CustomProgram\obj\Debug\net9.0\CustomProgram.dll
 C:\msys64\home\Admin\CustomProgram\obj\Debug\net9.0\refint\CustomProgram.dll
 C:\msys64\home\Admin\CustomProgram\obj\Debug\net9.0\CustomProgram.pdb
 C:\msys64\home\Admin\CustomProgram\obj\Debug\net9.0\CustomProgram.genruntimeconfig.cache
 C:\msys64\home\Admin\CustomProgram\obj\Debug\net9.0\ref\CustomProgram.dll
+C:\msys64\home\Admin\CustomProgram\bin\Debug\net9.0\FlappyBirdBackground.png

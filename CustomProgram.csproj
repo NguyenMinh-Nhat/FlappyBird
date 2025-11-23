@@ -9,6 +9,13 @@
 
   <ItemGroup>
     <PackageReference Include="SplashKit" Version="1.2.13" />
+    <None Update="FlappyBirdBackground.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Character.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
+
 
 </Project>

@@ -2,6 +2,6 @@ namespace CustomProgram
 {
     public interface ICollectable
     {
-        void OnCollected();
+        bool OnCollected();
     }
 }

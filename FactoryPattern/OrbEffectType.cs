@@ -1,5 +1,5 @@
 namespace CustomProgram
 {
-    public enum OrbEffectType { Health, Imune, test }
+    public enum OrbEffectType { Health, Imune, Point }
 
 }

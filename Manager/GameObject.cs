@@ -5,12 +5,9 @@ namespace CustomProgram
 {
     public abstract class GameObject
     {
-        public Vector2 position;
+        public Vector2 position;    
         public Rectangle boundingBox;
-        public abstract void Update();
-        public void Draw()
-        {
-            
-        }
+        public abstract void Update(float deltaTime);
+        public abstract void Draw();
     }
 }
