@@ -93,8 +93,7 @@ namespace CustomProgram
         private void SpawnOrb()
         {
             // Only spawn if have pipes
-
-        if (_pipeManager.ListPipes.Count > 0)
+            if (_pipeManager.ListPipes.Count > 0)
             {
                 Pipe lastPipe = _pipeManager.ListPipes[_pipeManager.ListPipes.Count - 1];
                 
@@ -108,7 +107,5 @@ namespace CustomProgram
                 _orbs.Add(orb);
             }
         }
-
-        
     }
 }

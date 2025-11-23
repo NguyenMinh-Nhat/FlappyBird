@@ -48,7 +48,7 @@ namespace CustomProgram
             gameManager.OrbManager.Update(deltaTime);
             gameManager.Background.Update(deltaTime);
             
-            gameManager.CheckCollisions();
+            gameManager.CheckPipeCollisions();
 
             
             

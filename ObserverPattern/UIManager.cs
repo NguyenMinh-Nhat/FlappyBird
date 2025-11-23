@@ -64,7 +64,7 @@ namespace CustomProgram
             float hpX = 10; 
             float hpY = 20;
 
-            SplashKit.DrawText($"HP:", Color.WhiteSmoke, "GameFont", 20, hpX, hpY); 
+            SplashKit.DrawText("HP:", Color.WhiteSmoke, "GameFont", 20, hpX, hpY); 
             
             for (int i = 0; i < _health; i++)
             {
@@ -84,7 +84,7 @@ namespace CustomProgram
                 SplashKit.DrawRectangle(Color.Black, centerX - 150, centerY - 100, 300, 200);
 
                 SplashKit.DrawText("GAME OVER", Color.Red, "GameFont", 40, centerX - 120, centerY - 60);
-                SplashKit.DrawText($"Final Score: {_score}", Color.Black, "GameFont", 20, centerX - 60, centerY + 10);
+                SplashKit.DrawText("Final Score: " + _score, Color.Black, "GameFont", 20, centerX - 60, centerY + 10);
                 SplashKit.DrawText("Press SPACE to Restart", Color.Blue, "GameFont", 15, centerX - 80, centerY + 50);
             }
         }

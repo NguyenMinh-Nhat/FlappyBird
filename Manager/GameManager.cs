@@ -9,7 +9,6 @@ namespace CustomProgram
         private List<IObserver> observers;
         private PipeManager pipeManager;
         private Bird bird;
-        private InputManager inputManager;
         private OrbManager orbManager;
         private UIManager uiManager;
         private Background background;
@@ -23,7 +22,6 @@ namespace CustomProgram
                 
                 this.pipeManager = new PipeManager(); // Initialize PipeManager
                 this.orbManager = new OrbManager(pipeManager); // Initilize OrbManager
-                this.inputManager = new InputManager(); // Initialize InputManager
                 this.background = new Background(window); // Initilize Background
                 
 
@@ -34,8 +32,6 @@ namespace CustomProgram
                 this.currentState.EnterState();
                 
                 this.score = 0;     // Initilize Score
-                
-                    
             }
             catch (Exception ex)
             {
@@ -196,7 +192,7 @@ namespace CustomProgram
         }
         
 
-        public void CheckCollisions()
+        public void CheckPipeCollisions()
         {
             // Already Immune -> skip checking
             if (bird.Health.IsInvincible || bird.Health.IsDead) return;

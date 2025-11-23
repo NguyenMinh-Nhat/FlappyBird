@@ -1,0 +1,428 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\msys64\\home\\Admin\\CustomProgram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\Admin\\CustomProgram\\ObserverPattern\\UIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ObserverPattern\\UIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\Admin\\CustomProgram\\ObserverPattern\\IObserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ObserverPattern\\IObserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\Admin\\CustomProgram\\Manager\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Manager\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\Admin\\CustomProgram\\FactoryPattern\\OrbManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FactoryPattern\\OrbManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\Admin\\CustomProgram\\FactoryPattern\\OrbFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FactoryPattern\\OrbFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\Admin\\CustomProgram\\FactoryPattern\\OrbEffectType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FactoryPattern\\OrbEffectType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\Admin\\CustomProgram\\FactoryPattern\\Orb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FactoryPattern\\Orb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\Admin\\CustomProgram\\Interface\\ISubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interface\\ISubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\Admin\\CustomProgram\\Interface\\IPipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interface\\IPipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\Admin\\CustomProgram\\Interface\\IGameState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interface\\IGameState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\Admin\\CustomProgram\\Interface\\IDamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interface\\IDamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\Admin\\CustomProgram\\Interface\\ICollectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interface\\ICollectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\Admin\\CustomProgram\\Manager\\PipeManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Manager\\PipeManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\Admin\\CustomProgram\\Manager\\InputManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Manager\\InputManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\Admin\\CustomProgram\\Manager\\GameObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Manager\\GameObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\Admin\\CustomProgram\\ObserverPattern\\SoundManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ObserverPattern\\SoundManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\Admin\\CustomProgram\\StatePattern\\ReadyState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StatePattern\\ReadyState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\Admin\\CustomProgram\\StatePattern\\PlayingState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StatePattern\\PlayingState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\Admin\\CustomProgram\\StatePattern\\GameOverState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StatePattern\\GameOverState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\Admin\\CustomProgram\\SubClass\\Pipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SubClass\\Pipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\Admin\\CustomProgram\\SubClass\\HealthSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SubClass\\HealthSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\Admin\\CustomProgram\\SubClass\\Bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SubClass\\Bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\Admin\\CustomProgram\\SubClass\\Background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SubClass\\Background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\Admin\\CustomProgram\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IObserver.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProgram\\ObserverPattern\\IObserver.cs",
+              "RelativeDocumentMoniker": "ObserverPattern\\IObserver.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProgram\\ObserverPattern\\IObserver.cs",
+              "RelativeToolTip": "ObserverPattern\\IObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T13:52:49.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProgram\\Manager\\GameManager.cs",
+              "RelativeDocumentMoniker": "Manager\\GameManager.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProgram\\Manager\\GameManager.cs",
+              "RelativeToolTip": "Manager\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T13:50:37.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrbManager.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProgram\\FactoryPattern\\OrbManager.cs",
+              "RelativeDocumentMoniker": "FactoryPattern\\OrbManager.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProgram\\FactoryPattern\\OrbManager.cs",
+              "RelativeToolTip": "FactoryPattern\\OrbManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T13:39:51.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrbFactory.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProgram\\FactoryPattern\\OrbFactory.cs",
+              "RelativeDocumentMoniker": "FactoryPattern\\OrbFactory.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProgram\\FactoryPattern\\OrbFactory.cs",
+              "RelativeToolTip": "FactoryPattern\\OrbFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T13:39:42.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrbEffectType.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProgram\\FactoryPattern\\OrbEffectType.cs",
+              "RelativeDocumentMoniker": "FactoryPattern\\OrbEffectType.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProgram\\FactoryPattern\\OrbEffectType.cs",
+              "RelativeToolTip": "FactoryPattern\\OrbEffectType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T13:39:34.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Orb.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProgram\\FactoryPattern\\Orb.cs",
+              "RelativeDocumentMoniker": "FactoryPattern\\Orb.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProgram\\FactoryPattern\\Orb.cs",
+              "RelativeToolTip": "FactoryPattern\\Orb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T13:39:28.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ISubject.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProgram\\Interface\\ISubject.cs",
+              "RelativeDocumentMoniker": "Interface\\ISubject.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProgram\\Interface\\ISubject.cs",
+              "RelativeToolTip": "Interface\\ISubject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T13:39:20.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPipe.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProgram\\Interface\\IPipe.cs",
+              "RelativeDocumentMoniker": "Interface\\IPipe.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProgram\\Interface\\IPipe.cs",
+              "RelativeToolTip": "Interface\\IPipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T13:39:12.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IGameState.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProgram\\Interface\\IGameState.cs",
+              "RelativeDocumentMoniker": "Interface\\IGameState.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProgram\\Interface\\IGameState.cs",
+              "RelativeToolTip": "Interface\\IGameState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T13:39:02.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDamageable.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProgram\\Interface\\IDamageable.cs",
+              "RelativeDocumentMoniker": "Interface\\IDamageable.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProgram\\Interface\\IDamageable.cs",
+              "RelativeToolTip": "Interface\\IDamageable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T13:38:51.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICollectable.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProgram\\Interface\\ICollectable.cs",
+              "RelativeDocumentMoniker": "Interface\\ICollectable.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProgram\\Interface\\ICollectable.cs",
+              "RelativeToolTip": "Interface\\ICollectable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T13:38:42.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProgram\\ObserverPattern\\UIManager.cs",
+              "RelativeDocumentMoniker": "ObserverPattern\\UIManager.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProgram\\ObserverPattern\\UIManager.cs",
+              "RelativeToolTip": "ObserverPattern\\UIManager.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAFEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T13:37:42.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PipeManager.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProgram\\Manager\\PipeManager.cs",
+              "RelativeDocumentMoniker": "Manager\\PipeManager.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProgram\\Manager\\PipeManager.cs",
+              "RelativeToolTip": "Manager\\PipeManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T13:38:31.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InputManager.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProgram\\Manager\\InputManager.cs",
+              "RelativeDocumentMoniker": "Manager\\InputManager.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProgram\\Manager\\InputManager.cs",
+              "RelativeToolTip": "Manager\\InputManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T13:38:17.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProgram\\Manager\\GameObject.cs",
+              "RelativeDocumentMoniker": "Manager\\GameObject.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProgram\\Manager\\GameObject.cs",
+              "RelativeToolTip": "Manager\\GameObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T13:38:05.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProgram\\ObserverPattern\\SoundManager.cs",
+              "RelativeDocumentMoniker": "ObserverPattern\\SoundManager.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProgram\\ObserverPattern\\SoundManager.cs",
+              "RelativeToolTip": "ObserverPattern\\SoundManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T13:37:31.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReadyState.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProgram\\StatePattern\\ReadyState.cs",
+              "RelativeDocumentMoniker": "StatePattern\\ReadyState.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProgram\\StatePattern\\ReadyState.cs",
+              "RelativeToolTip": "StatePattern\\ReadyState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T13:37:06.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PlayingState.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProgram\\StatePattern\\PlayingState.cs",
+              "RelativeDocumentMoniker": "StatePattern\\PlayingState.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProgram\\StatePattern\\PlayingState.cs",
+              "RelativeToolTip": "StatePattern\\PlayingState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T13:36:55.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GameOverState.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProgram\\StatePattern\\GameOverState.cs",
+              "RelativeDocumentMoniker": "StatePattern\\GameOverState.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProgram\\StatePattern\\GameOverState.cs",
+              "RelativeToolTip": "StatePattern\\GameOverState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T13:36:16.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Pipe.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProgram\\SubClass\\Pipe.cs",
+              "RelativeDocumentMoniker": "SubClass\\Pipe.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProgram\\SubClass\\Pipe.cs",
+              "RelativeToolTip": "SubClass\\Pipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T13:35:51.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HealthSystem.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProgram\\SubClass\\HealthSystem.cs",
+              "RelativeDocumentMoniker": "SubClass\\HealthSystem.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProgram\\SubClass\\HealthSystem.cs",
+              "RelativeToolTip": "SubClass\\HealthSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T13:35:18.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProgram\\SubClass\\Bird.cs",
+              "RelativeDocumentMoniker": "SubClass\\Bird.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProgram\\SubClass\\Bird.cs",
+              "RelativeToolTip": "SubClass\\Bird.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAowH4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T13:34:58.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Background.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProgram\\SubClass\\Background.cs",
+              "RelativeDocumentMoniker": "SubClass\\Background.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProgram\\SubClass\\Background.cs",
+              "RelativeToolTip": "SubClass\\Background.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T13:33:58.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProgram\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProgram\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T13:28:41.555Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
