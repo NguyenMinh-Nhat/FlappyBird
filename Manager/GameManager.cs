@@ -10,9 +10,9 @@ namespace CustomProgram
         private PipeManager pipeManager;
         private Bird bird;
         private OrbManager orbManager;
-        private UIManager uiManager;
+        private UIManager uiManager = null!;
         private Background background;
-        private SoundManager soundManager;
+        private SoundManager soundManager = null!;
 
         // Constructor 
         public GameManager(Window window)

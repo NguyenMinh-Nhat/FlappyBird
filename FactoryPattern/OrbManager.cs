@@ -6,10 +6,10 @@ namespace CustomProgram
 {
     public class OrbManager 
     {
-        private List<Orb> _orbs;
-        private OrbFactory _factory;
-        private Random _random;
-        private PipeManager _pipeManager;
+        private List<Orb> _orbs = new List<Orb>();
+        private OrbFactory _factory = new OrbFactory();
+        private Random _random = new Random();
+        private PipeManager _pipeManager = null!;
         private float _spawnTimer = 0f; // Counter
         private float _minSpawnTime = 2.0f; // Waiting Time
 

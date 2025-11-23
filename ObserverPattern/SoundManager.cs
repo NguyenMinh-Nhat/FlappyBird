@@ -4,12 +4,12 @@ namespace CustomProgram
 {
     public class SoundManager : IObserver
     {
-        private SoundEffect _jumpSound;
-        private SoundEffect _scoreSound;
-        private SoundEffect _hitSound;
-        private SoundEffect _dieSound;
-        private SoundEffect _orbSound;
-        private Music _bgMusic;
+        private SoundEffect _jumpSound = null!;
+        private SoundEffect _scoreSound = null!;
+        private SoundEffect _hitSound = null!;
+        private SoundEffect _dieSound = null!;
+        private SoundEffect _orbSound = null!;
+        private Music _bgMusic  = null!;
 
         private int _lastScore;
         private int _lastHealth;

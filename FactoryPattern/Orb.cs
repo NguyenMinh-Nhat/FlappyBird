@@ -5,40 +5,17 @@ namespace CustomProgram
 {
     public class Orb : GameObject, ICollectable
     {
-        private float x;
-        private float y;
-        private float width = 30f;
-        private float height = 30f;
         private float speed = 200f;
 
         private OrbEffectType _effectType;
         private Color _orbColor;
 
-        // Property
-        public float X
+        public Orb()
         {
-            get{ return x;}
-            set{ x = value;}
+            this.Width = 30f;
+            this.Height = 30f;
         }
-
-        public float Y
-        {
-            get{ return y;}
-            set{ y = value;}            
-        }
-
-        public float Width
-        {
-            get{ return width;}
-            set{ width = value;}            
-        }
-
-        public float Height
-        {
-            get{ return height;}
-            set{ height = value;}            
-        }
-
+        
         public float Speed
         {
             get{ return speed;}
@@ -68,12 +45,6 @@ namespace CustomProgram
             { 
                 _orbColor = value; 
             }
-        }
-
-        // Orb Hitbox
-        public Rectangle CollisionBox
-        {
-            get { return SplashKit.RectangleFrom(X, Y, Width, Height); }
         }
 
         public bool OnCollected()

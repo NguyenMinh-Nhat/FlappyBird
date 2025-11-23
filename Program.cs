@@ -10,8 +10,8 @@ namespace MainProgram
     {
         public static void Main(string[] args)
         {
-            Window window = null;
-            GameManager gameManager = null;
+            Window window = null!;
+            GameManager gameManager = null!;
             
             try
             {

@@ -4,10 +4,6 @@ namespace CustomProgram
     public class Pipe : GameObject, IPipe
     {
         private float speed = 200f;
-        private float _width = 50f;
-        private float _height = 300f;
-        private float x;
-        private float y;
         private bool isScored = false;
         private Bitmap _pipeIMG;
         private Bitmap _pipeFlipIMG;
@@ -20,9 +16,13 @@ namespace CustomProgram
         // Constructor
         public Pipe(float x, float y, float speed)
         {
-            this.X = x;          // Use properties instead of fields
+            this.X = x;          
             this.Y = y;
+            this.Width = 50f;
+            this.Height = 300f;
             this.Speed = speed;
+
+            // Load img
             _pipeIMG = SplashKit.LoadBitmap("PipeIMG", "pipe-green.png");
             _pipeFlipIMG = SplashKit.LoadBitmap("PipeFlipIMG", "pipe-greenflip.png");
         }
@@ -38,61 +38,11 @@ namespace CustomProgram
             }
         }
 
-        // Position properties 
-        public float X
-        {
-            get
-            {
-                return x;
-            }
-            set
-            {
-                x = value;
-            }
-        }
-
-        public float Y
-        {
-            get
-            {
-                return y;
-            }
-            set
-            {
-                y = value;
-            }
-        }
-
-        // Size properties
-        public float Width 
-        { 
-            get { return _width; } 
-            set { _width = value; } 
-        }
-        
-        public float Height 
-        { 
-            get { return _height; } 
-            set { _height = value; } 
-        }
-
         public float Speed
         {
             get { return speed; }
             set { speed = value; }
         }
-
-
-        // Return current pos
-        public Rectangle CollisionBox
-        {
-            get
-            {
-                return SplashKit.RectangleFrom(X, Y, Width, Height);
-            }
-        }
-
-
 
         public override void Update(float deltaTime)
         {
@@ -115,10 +65,10 @@ namespace CustomProgram
             }
 
             // Calculate X
-            double scaleX = _width / currentBitmap.Width;
+            double scaleX = Width / currentBitmap.Width;
 
             // Calculate height to cut
-            double sourceHeight = _height;
+            double sourceHeight = Height;
             if (sourceHeight > currentBitmap.Height) sourceHeight = currentBitmap.Height;
 
             // Cut and Scale Img

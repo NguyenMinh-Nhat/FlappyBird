@@ -5,8 +5,8 @@ namespace CustomProgram
     public class PipeManager 
     {
         public float spawnRate;
-        private List<Pipe> Pipes;
-        private Random random;
+        private List<Pipe> Pipes = null!;
+        private Random random = null!;
         // Constant
         private int PIPEDISTANCE = 300;
         private int PIPEGAP = 130;

@@ -6,7 +6,7 @@ namespace CustomProgram
         private int _score;
         private int _health;
         private bool _isGameOver = false;
-        private Font _gameFont;
+        private Font _gameFont = null!;
 
         public UIManager()
         {
